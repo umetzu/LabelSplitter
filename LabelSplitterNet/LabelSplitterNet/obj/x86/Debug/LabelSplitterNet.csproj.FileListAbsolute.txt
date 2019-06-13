@@ -1,0 +1,7 @@
+/Users/Umetzu/Desktop/LabelSplitterNet/LabelSplitterNet/bin/Debug/LabelSplitterNet.exe
+/Users/Umetzu/Desktop/LabelSplitterNet/LabelSplitterNet/bin/Debug/LabelSplitterNet.pdb
+/Users/Umetzu/Desktop/LabelSplitterNet/LabelSplitterNet/bin/Debug/itextsharp.dll
+/Users/Umetzu/Desktop/LabelSplitterNet/LabelSplitterNet/bin/Debug/itextsharp.xml
+/Users/Umetzu/Desktop/LabelSplitterNet/LabelSplitterNet/obj/x86/Debug/LabelSplitterNet.csproj.CoreCompileInputs.cache
+/Users/Umetzu/Desktop/LabelSplitterNet/LabelSplitterNet/obj/x86/Debug/LabelSplitterNet.exe
+/Users/Umetzu/Desktop/LabelSplitterNet/LabelSplitterNet/obj/x86/Debug/LabelSplitterNet.pdb

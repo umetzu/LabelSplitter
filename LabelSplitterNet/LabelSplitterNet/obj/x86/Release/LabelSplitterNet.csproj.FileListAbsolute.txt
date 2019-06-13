@@ -1,0 +1,5 @@
+/Users/Umetzu/Desktop/LabelSplitterNet/LabelSplitterNet/bin/Release/LabelSplitterNet.exe
+/Users/Umetzu/Desktop/LabelSplitterNet/LabelSplitterNet/bin/Release/itextsharp.dll
+/Users/Umetzu/Desktop/LabelSplitterNet/LabelSplitterNet/bin/Release/itextsharp.xml
+/Users/Umetzu/Desktop/LabelSplitterNet/LabelSplitterNet/obj/x86/Release/LabelSplitterNet.csproj.CoreCompileInputs.cache
+/Users/Umetzu/Desktop/LabelSplitterNet/LabelSplitterNet/obj/x86/Release/LabelSplitterNet.exe

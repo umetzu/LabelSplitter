@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{CC5AC915-437E-40D9-B545-E6614EBAC8DB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LabelSplitterNet/Program.cs">
+    <Files>
+      <File FileName="LabelSplitterNet/Program.cs" Line="42" Column="62" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LabelSplitterNet PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
